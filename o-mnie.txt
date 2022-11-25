@@ -1,3 +1,7 @@
 Karol Burczyk
 programowanie i file management w gicie
 top gear
+<<<<<<< HEAD
+=======
+pomaranczowy
+>>>>>>> MERGE
